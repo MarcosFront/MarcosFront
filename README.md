@@ -1,9 +1,10 @@
 #  Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 Hello, I am a Front-end developer from Brazil. I have experience in developing websites and systems for the web. More than 4 years of experience in Front-end development in small and large companies.
+ <img align="right" alt="GIF" src="https://github.com/MarcosFront/MarcosFront/blob/main/Habilidades.png" width="400" height="320" />
 
 
 ## 🛠 Languages and Tools:
- <img align="right" alt="GIF" src="https://github.com/MarcosFront/MarcosFront/blob/main/Habilidades.png" width="500" height="320" />
+
 <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />&nbsp;
