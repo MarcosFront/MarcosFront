@@ -17,5 +17,5 @@ Hello, I am a Front-end developer from Brazil. I have experience in developing w
 <img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />&nbsp;
 
 ## 🔍  Where to find me
-<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />(https://www.linkedin.com/in/marcosvrsouza/?locale=en_US)
+[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/marcosvrsouza/?locale=en_US)
 
