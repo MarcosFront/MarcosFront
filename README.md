@@ -20,3 +20,6 @@ Hello, I am a Front-end developer from Brazil. I have experience in developing w
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/marcosvrsouza/?locale=en_US)
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcosv.rbsouza@gmail.com)](mailto:marcosv.rbsouza@gmail.com)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosFront&hide=TeX&layout=compact)
