@@ -1,5 +1,5 @@
 #  Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-Hello, I am a Front-end developer from Brazil. I have experience in developing websites and systems for the web. More than 4 years of experience in Front-end development in small and large companies.
+Hello, I am a Front-end developer from Brazil. I have experience in developing websites and systems for the web. More than 7 years of experience in Front-end development in small and large companies.
  <img align="right" alt="GIF" src="https://github.com/MarcosFront/MarcosFront/blob/main/Habilidades.png" width="250" height="200" />
 
 
@@ -12,6 +12,9 @@ Hello, I am a Front-end developer from Brazil. I have experience in developing w
 <img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" alt="Angularjs logo" title="Angularjs" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap logo" title="Bootstrap" height="25" />&nbsp;
+
 
 ## 📖  What I am currently learning / improving on
 <img src="https://img.shields.io/badge/Vue.js-282C34?logo=vue.js&logoColor=4FC08D" alt="Vue.js logo" title="Vue.js" height="25" />&nbsp;
