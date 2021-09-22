@@ -27,4 +27,4 @@ Hello, I am a Front-end developer from Brazil. I have experience in developing w
 [![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcosv.rbsouza@gmail.com)](mailto:marcosv.rbsouza@gmail.com)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosFront&hide=TeX&layout=compact)
+
